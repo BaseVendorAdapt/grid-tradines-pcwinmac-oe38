@@ -1,4 +1,4 @@
-# 
+# 新 grid trading bot for futures 模板 Mac OS版 | 极速 grid trading bot for futures 模板 PC Windows版。集成 逐仓模式支持 和 实时数据源，跨平台性能最大化。
 
 
 
